@@ -1,1 +1,1 @@
-# fft64
+# 64-point FFT
